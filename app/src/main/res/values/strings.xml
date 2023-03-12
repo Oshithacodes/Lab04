@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">lab04</string>
+    <string name="edtName">Email</string>
+    <string name="edtemail">Email</string>
+    <string name="edtPassword">Password</string>
+    <string name="edtRetypepassword">Re type Password</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="btnCancel">Cancel</string>
+
 </resources>
