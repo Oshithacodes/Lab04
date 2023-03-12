@@ -80,4 +80,12 @@
         android:layout_marginRight= "16dp"
         android:text="@string/btnCancel" />
 
+    <EditText
+        android:id="@+id/editTextTextPersonName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Name" />
+
 </LinearLayout>
